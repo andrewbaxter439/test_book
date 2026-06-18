@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>. See [@Craig2017].  Also [@10.1186/s12889-025-25416-y]
+
+```{r}
+1 + 1
+```
