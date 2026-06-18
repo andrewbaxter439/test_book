@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Andy Baxter practicing a book!",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books. See (Craig et al. 2017).\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nCraig, Peter, Srinivasa Vittal Katikireddi, Alastair Leyland, and Frank Popham. 2017. “Natural Experiments: An Overview of Methods, Approaches, and Contributions to Public Health Intervention Research.” Annual Review of Public Health 38 (1): 39–56. https://doi.org/10.1146/annurev-publhealth-031816-044327.",
     "crumbs": [
       "Preface"
     ]
@@ -34,7 +34,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Baxter, Andrew J. 2019. Andrewbaxter439/ITS_shinyapp:\nUpdated Version. https://dx.doi.org/10.5281/ZENODO.3519394.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "Baxter, Andrew J. 2019. Andrewbaxter439/ITS_shinyapp:\nUpdated Version. https://dx.doi.org/10.5281/ZENODO.3519394.\n\n\nCraig, Peter, Srinivasa Vittal Katikireddi, Alastair Leyland, and Frank\nPopham. 2017. “Natural Experiments: An Overview of Methods,\nApproaches, and Contributions to Public Health Intervention\nResearch.” Annual Review of Public Health 38 (1): 39–56.\nhttps://doi.org/10.1146/annurev-publhealth-031816-044327.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
     ]
