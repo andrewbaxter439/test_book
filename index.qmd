@@ -1,9 +1,7 @@
-# Preface {.unnumbered}
+# About this book {.unnumbered}
 
-This is a Quarto book.
+## About me
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>. See [@craig2017].
+I am Andy, I like to write books. This sort of works!
 
-```{r}
-1 + 1
-```
+Check out my work at [@baxter2021].
